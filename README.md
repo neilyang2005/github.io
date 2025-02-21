@@ -1,4 +1,3 @@
-# github.io
 # Dr. Qing Yang
 
 **Associate Professor**  
